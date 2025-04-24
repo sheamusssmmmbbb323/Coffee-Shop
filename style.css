@@ -24,6 +24,7 @@ h3 {
 }
 .navbar .nav-right .nav-link:hover{
 background-color: #b5a473;
+
 }
 
 .navbar .nav-right a:hover {
@@ -109,7 +110,7 @@ header {
 /* HOME */
 
 .home {
-  background-image: url(/assests/home-bg.png);
+  background-image: url(./assests/home-bg.png);
   background-color: #bba988;
 }
 
@@ -435,7 +436,7 @@ h3 {
 
 /* footer */
 #footer .footer-top {
-  background-image: url(/assests/footer-bg.png);
+  background-image: url(./assests/footer-bg.png);
   color: white;
 }
 
