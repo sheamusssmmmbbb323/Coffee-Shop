@@ -594,8 +594,7 @@ h3 {
 
 @media screen and (max-width: 768px) {
    .navbar .nav-right {
-    position: fixed;
-    right: -100%;
+    display: none;
   }
  
 
